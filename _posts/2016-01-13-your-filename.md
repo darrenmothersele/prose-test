@@ -1,10 +1,12 @@
 ---
 layout: blog
 date: "2016-01-13 18:22 +0000"
-categories: null
+categories: 
+  - "null"
 published: false
-title: ""
+title: Untitled
 ---
+
 
 ## A New Post
 
